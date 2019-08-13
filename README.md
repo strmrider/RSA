@@ -5,7 +5,7 @@ Python implementation of [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 Includes the implementation of Miller–Rabin primality test and the Extended Euclidean algorithm.
 
 ## Example
-Simulated communcation between 'Bob' and 'Alice' (view [example.py]() for more detailed example).
+Simulated communcation between 'Bob' and 'Alice' (view [example.py](https://github.com/strmrider/RSA/blob/master/example.py) for more detailed example).
 
 Import module
 ```
